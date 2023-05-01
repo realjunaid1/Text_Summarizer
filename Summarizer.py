@@ -2,7 +2,7 @@ import tkinter as tk
 import openai
 import pyperclip
 
-API_KEY = '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'
+API_KEY = 'Your API-key'
 openai.api_key = API_KEY
 model_id = 'text-davinci-002'
 
